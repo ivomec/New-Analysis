@@ -1,0 +1,23 @@
+vet-ai-assistant/
+├── .gitignore
+├── index.html
+├── index.tsx
+├── metadata.json
+├── App.tsx
+├── types.ts
+├── constants.tsx
+├── components/
+│   ├── Header.tsx
+│   ├── PatientInfoForm.tsx
+│   ├── MultiFileUpload.tsx
+│   ├── FileUploadCard.tsx
+│   ├── AnalysisResult.tsx
+│   └── icons/
+│       ├── XRayIcon.tsx
+│       ├── EyeIcon.tsx
+│       ├── EcgIcon.tsx
+│       ├── AudioIcon.tsx
+│       ├── DentalIcon.tsx
+│       └── BloodTestIcon.tsx
+└── services/
+    └── geminiService.ts

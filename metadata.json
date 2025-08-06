@@ -1,0 +1,5 @@
+{
+  "name": "Vet AI-Scan Assistant",
+  "description": "An application that uses AI to analyze various veterinary examination results (X-rays, eye photos, ECGs, etc.) and provides a diagnostic report.",
+  "requestFramePermissions": []
+}
