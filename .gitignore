@@ -1,0 +1,11 @@
+# API 키나 환경 변수 파일 (GitHub에 절대 올리면 안 되는 민감 정보)
+.env
+*.env
+.env.*
+
+# 운영체제 생성 파일
+.DS_Store
+Thumbs.db
+
+# Node.js 패키지 폴더
+node_modules
